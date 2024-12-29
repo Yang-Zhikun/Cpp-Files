@@ -6,9 +6,9 @@
                 "${workspaceFolder}\\**"
             ],
             "defines": [
-                "_DEBUG"
-                //#undef UNICODE
-                //#undef _UNICODE
+                "_DEBUG",
+                "#undef UNICODE",
+                "#undef _UNICODE"
                 /*"UNICODE",
                 "_UNICODE"*/
             ],
