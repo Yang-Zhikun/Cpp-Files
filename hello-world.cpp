@@ -1,7 +1,8 @@
-#include<stdio.h>
-#include<windows.h>
+Ôªø#include<stdio.h>
+#include<unistd.h>
 
 int main(){
-    printf("Hello World!\nƒ„∫√ ¿ΩÁ£°\n");
-    system("pause");
+    printf("Hello World!\n‰Ω†Â•Ω\n");
+    sleep(1);
+    return 0;
 }

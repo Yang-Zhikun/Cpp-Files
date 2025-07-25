@@ -1,6 +1,6 @@
 {
     "files.autoSave": "afterDelay",
-    "files.encoding": "gbk",
+    "files.encoding": "utf8",
     "C_Cpp.errorSquiggles": "enabled",
     //C/C++格式化代码的设置
     /*"editor.formatOnPaste": true,
