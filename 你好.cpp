@@ -1,4 +1,5 @@
 ﻿#include<iostream>
+#include "header.h"
 using namespace std;
 int main() {
     cout << "Hello World!" << endl;
@@ -6,5 +7,7 @@ int main() {
     int a;
     cin >> a;
     cout << "You entered: " << a << endl << endl;
+    damn obj;
+    obj.sayHello();
     return 0;
 }
