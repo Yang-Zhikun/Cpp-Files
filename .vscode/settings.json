@@ -1,6 +1,6 @@
 {
     "files.autoSave": "afterDelay",
-    "files.encoding": "gbk",
+    "files.encoding": "utf8",
     "C_Cpp.errorSquiggles": "enabled",
     "C_Cpp.default.compilerPath": "D:/Program Files(D)/Dev-Cpp/MinGW64/bin/g++.exe",
     "files.associations": {

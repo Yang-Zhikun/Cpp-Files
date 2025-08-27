@@ -3,7 +3,7 @@
 using namespace std;
 int main() {
     cout << "Hello World!" << endl;
-    cout << "ÄãºÃ£¬ÊÀ½ç£¡" << endl;
+    cout << "ä½ å¥½ï¼Œä¸–ç•Œï¼" << endl;
     int a;
     damn obj;
     obj.sayHello();
