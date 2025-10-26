@@ -1,8 +1,10 @@
 {
     "files.autoSave": "afterDelay",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "files.encoding": "utf8",
     "C_Cpp.errorSquiggles": "enabled",
     "C_Cpp.default.compilerPath": "D:/Program Files(D)/Dev-Cpp/MinGW64/bin/g++.exe",
+    "C_Cpp.default.compilerPath": "D:/ProgramFilesD/Dev-Cpp/MinGW64/bin/g++.exe",
     "files.associations": {
         "iostream": "cpp",
         "cctype": "cpp",
