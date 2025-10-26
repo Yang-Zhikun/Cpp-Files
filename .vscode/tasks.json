@@ -10,7 +10,7 @@
                 "${file}",
                 "-o",
                 "${workspaceFolder}\\.exe\\a.exe",
-                "-leasyx",
+                
                 "-std=c++14",
                 "-Finput-charset=UTF-8",
                 "-fexec-charset=GBK"
