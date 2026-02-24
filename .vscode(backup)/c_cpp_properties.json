@@ -1,9 +1,9 @@
 {
     "configurations": [
         {
-            "name": "Linux",
+            "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}\\**"
             ],
             "defines": [
                 "_DEBUG",
@@ -14,8 +14,8 @@
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",
-            "intelliSenseMode": "linux-gcc-x64",
-            "compilerPath": "/usr/bin/g++"
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:\\ProgramFilesD\\Dev-Cpp\\MinGW64\\bin\\g++.exe"
         }
     ],
     "version": 4
